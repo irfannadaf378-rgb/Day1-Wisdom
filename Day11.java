@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Perm {
+public class Day11 {
     public static List<String> perm(String s) {
         List<String> ans = new ArrayList<>();
         char[] a = s.toCharArray();
